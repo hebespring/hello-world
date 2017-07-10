@@ -1,6 +1,3 @@
 # hello-world
 First try
-
-no one
-stop
-
+No one can stop me.
